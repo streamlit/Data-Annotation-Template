@@ -1,8 +1,8 @@
 import streamlit as st 
 import pandas as pd
 
-st.balloons()
-st.markdown("# Data Evaluation App")
+
+st.header("📊 Data Evaluation App")
 
 st.write("We are so glad to see you here. ✨ " 
          "This app is going to have a quick walkthrough with you on "
