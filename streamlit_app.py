@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 
-st.title("📊 Data Evaluation App")
+st.title("📊 Data evaluation app")
 
 st.write(
     "We are so glad to see you here. ✨ "
