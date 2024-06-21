@@ -116,3 +116,4 @@ st.bar_chart(df_plot, x="Category", y="count")
 st.write(
     "Here we are at the end of getting started with streamlit! Happy Streamlit-ing! :balloon:"
 )
+
