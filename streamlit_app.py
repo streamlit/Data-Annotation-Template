@@ -2,12 +2,11 @@ import streamlit as st
 import pandas as pd
 
 
-st.title("📊 Data evaluation app")
+st.title("📊 Tigrinho da LCK")
 
 st.write(
-    "We are so glad to see you here. ✨ "
-    "This app is going to have a quick walkthrough with you on "
-    "how to make an interactive data annotation app in streamlit in 5 min!"
+    "Saiba sem erros. ✨ "
+    "Aqui é dinheiro garantido HAHA "
 )
 
 st.write(
